@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{D2106619-946F-4304-BB0B-5A8F36F5249C}</ProjectGuid>
+    <ProjectGuid>{8773F777-638D-483F-BD15-63A676415DDF}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Observer1</RootNamespace>
-    <AssemblyName>Observer1</AssemblyName>
+    <RootNamespace>Observer2</RootNamespace>
+    <AssemblyName>Observer2</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
